@@ -1,9 +1,7 @@
 <h1 align="center">Hola, soy Guillo Duran!</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 Actualmente estoy dedicando mi tiempo para aprender **NextJS**
-
-- 💬 Pueden hacerme preguntas sobre **HTML, CSS, Javascript, React, y otras más.**
+- 🔭 Actualmente estoy dedicando mi tiempo para aprender **NextJS**, **Web3** & **Blockchain** (Algorand).
 
 - 📫 Me pueden contactar a **guilloduran@gmail.com**
 
